@@ -1,100 +1,402 @@
-[{"product_name":"Honey Sriracha Chicken Bites","product_category":"Food - Frozen Foods","product_price":7.99,"currency":"Rupiah","product_description":"Frozen chicken bites coated in a honey sriracha glaze, spicy and sweet.","product_subcategory":"Frozen Appetizers"},
-{"product_name":"Rechargeable Electric Screwdriver","product_category":"Tools","product_price":39.99,"currency":"Yuan Renminbi","product_description":"Convenient electric screwdriver for DIY projects at home.","product_subcategory":"Power Tools"},
-{"product_name":"Fitness Activity Journal","product_category":"Fitness","product_price":14.99,"currency":"Peso","product_description":"Journal to record workouts and nutrition.","product_subcategory":"Health & Wellness Tools"},
-{"product_name":"Glass Tea Pot","product_category":"Kitchen","product_price":34.99,"currency":"Rupiah","product_description":"Elegant glass teapot for brewing loose tea.","product_subcategory":"Coffee Equipment"},
-{"product_name":"Almond Flour Biscuits","product_category":"Food - Bakery","product_price":6.49,"currency":"Peso","product_description":"Gluten-free biscuits made with almond flour.","product_subcategory":"Gluten-Free Baked Goods"},
-{"product_name":"Stainless Steel Straws","product_category":"Kitchen","product_price":12.99,"currency":"Dollar","product_description":"Set of reusable stainless steel straws for drinks.","product_subcategory":"Kitchen Accessories"},
-{"product_name":"Cookbook","product_category":"Books","product_price":27.99,"currency":"Bolivar","product_description":"Inspiring cookbook with healthy recipes.","product_subcategory":"Cookbooks & Nutrition"},
-{"product_name":"Reusable Produce Bags Set","product_category":"Kitchen","product_price":14.99,"currency":"Franc","product_description":"Eco-friendly mesh bags for shopping produce at the market.","product_subcategory":"Eco-Friendly Kitchen Products"},
-{"product_name":"Smashed Avocado with Lime","product_category":"Food - Condiments","product_price":2.49,"currency":"Dong","product_description":"A creamy blend of avocados and lime juice, great for spreads or dips.","product_subcategory":"Guacamole"},
-{"product_name":"Spinach Feta Wraps","product_category":"Food - Deli","product_price":4.29,"currency":"Rupiah","product_description":"Whole wheat wraps filled with spinach, feta, and herbs.","product_subcategory":"Wraps/Rolls"},
-{"product_name":"Inspirational Wall Art","product_category":"Home","product_price":24.99,"currency":"Hryvnia","product_description":"Quote wall art to inspire and motivate.","product_subcategory":"Decorative Wall Art & Accessories"},
-{"product_name":"Italian Breadsticks","product_category":"Food - Bakery","product_price":2.49,"currency":"Rupiah","product_description":"Crispy breadsticks seasoned with herbs and garlic.","product_subcategory":"Savory Snacks"},
-{"product_name":"Mango Chutney","product_category":"Food - Condiments","product_price":3.99,"currency":"Dollar","product_description":"Sweet and tangy mango chutney for a flavorful dip.","product_subcategory":"Fruit Chutneys"},
-{"product_name":"Indoor Plants","product_category":"Garden","product_price":19.99,"currency":"Peso","product_description":"Assorted indoor plants for home decor.","product_subcategory":"Houseplants"},
-{"product_name":"Vegetable Spiralizer","product_category":"Kitchen","product_price":19.99,"currency":"Hryvnia","product_description":"Create spiraled vegetable noodles easily for healthy meals.","product_subcategory":"Food Preparation Tools"},
-{"product_name":"Carrot Ginger Soup","product_category":"Food - Soups","product_price":4.29,"currency":"Zloty","product_description":"Smooth soup made from carrots and ginger, great for cold days.","product_subcategory":"Vegetarian Soups"},
-{"product_name":"Pineapple Teriyaki Chicken Mix","product_category":"Food - Meat","product_price":6.99,"currency":"Yuan Renminbi","product_description":"A perfect blend of pineapple and teriyaki for stir-fry.","product_subcategory":"Marinades and Sauces"},
-{"product_name":"Hiking Water Bottle with Filter","product_category":"Outdoor","product_price":29.99,"currency":"Yuan Renminbi","product_description":"8oz water bottle with built-in filter for clean drinking water.","product_subcategory":"Outdoor Accessories"},
-{"product_name":"Animal Paw Print Soap Dispenser","product_category":"Home","product_price":16.99,"currency":"Zloty","product_description":"Cute dispenser for bathrooms or kitchens featuring paw prints.","product_subcategory":"Home Organization"},
-{"product_name":"Plant-Based Cookbook","product_category":"Books","product_price":29.99,"currency":"Euro","product_description":"Delicious recipes focusing on plant-based ingredients.","product_subcategory":"Cookbooks & Nutrition"},
-{"product_name":"Smart Fitness Scale","product_category":"Fitness","product_price":49.99,"currency":"Krona","product_description":"Bluetooth scale that tracks body composition through an app.","product_subcategory":"Health Monitoring Devices"},
-{"product_name":"Cheddar Cheese Crackers","product_category":"Food - Snacks","product_price":2.29,"currency":"Yuan Renminbi","product_description":"Crunchy crackers topped with real cheddar cheese flavor.","product_subcategory":"Savory Snacks"},
-{"product_name":"Bamboo Bathtub Caddy","product_category":"Home","product_price":34.99,"currency":"Zloty","product_description":"Expandable caddy for holding books, phones, and snacks while in the bath.","product_subcategory":"Home Organization"},
-{"product_name":"Leather Notebook Cover","product_category":"Office","product_price":29.99,"currency":"Peso","product_description":"Elegant cover that protects your notebook with style.","product_subcategory":"Office Accessories"},
-{"product_name":"Tabletop Fire Pit","product_category":"Outdoor","product_price":79.99,"currency":"Dinar","product_description":"Compact and stylish indoor/outdoor fire pit for ambiance.","product_subcategory":"Outdoor Accessories"},
-{"product_name":"Ice Pack","product_category":"Health","product_price":8.99,"currency":"Euro","product_description":"Reusable gel ice pack for injuries and cooling.","product_subcategory":"Wellness & Relaxation"},
-{"product_name":"Pet Carrier","product_category":"Pets","product_price":39.99,"currency":"Yuan Renminbi","product_description":"Comfortable pet carrier for travel and vet visits.","product_subcategory":"Travel Accessories"},
-{"product_name":"Raisin Cinnamon Granola","product_category":"Food - Cereals","product_price":3.79,"currency":"Real","product_description":"Crunchy granola with raisins and cinnamon for a delightful breakfast.","product_subcategory":"Granola"},
-{"product_name":"Egg Noodles","product_category":"Food - Grains","product_price":2.29,"currency":"Sol","product_description":"Wide egg noodles, perfect for casseroles and soups.","product_subcategory":"Pasta"},
-{"product_name":"Fitbit Activity Tracker","product_category":"Fitness","product_price":99.99,"currency":"Dollar","product_description":"Advanced wristband that tracks daily activities and sleep.","product_subcategory":"Wearable Technology"},
-{"product_name":"Sweet and Spicy Barbecue Sauce","product_category":"Food - Condiments","product_price":3.99,"currency":"Euro","product_description":"A flavorful barbecue sauce with a sweet and spicy kick.","product_subcategory":"BBQ Sauces"},
-{"product_name":"Honey BBQ Riblets","product_category":"Food - Meat","product_price":12.99,"currency":"Peso","product_description":"Tender riblets coated in a honey barbecue glaze, perfect for grilling or baking.","product_subcategory":"Barbecue & Grilled Meats"},
-{"product_name":"Smart Wi-Fi Camera","product_category":"Smart Home","product_price":89.99,"currency":"Rupiah","product_description":"Indoor Wi-Fi camera for home security.","product_subcategory":"Home Security"},
-{"product_name":"Artisan Bread","product_category":"Food - Bakery","product_price":4.59,"currency":"Yuan Renminbi","product_description":"Freshly baked artisan bread, perfect for sandwiches or toasting.","product_subcategory":"Breads"},
-{"product_name":"Lentil Soup (canned)","product_category":"Food - Canned Goods","product_price":1.99,"currency":"Ruble","product_description":"Hearty lentil soup for a quick meal.","product_subcategory":"Soups & Broths"},
-{"product_name":"Digital Food Thermometer","product_category":"Kitchen","product_price":19.99,"currency":"Real","product_description":"Instant-read thermometer for accurate cooking temperatures.","product_subcategory":"Cooking Tools & Utensils"},
-{"product_name":"Baked Falafel","product_category":"Food - Vegetarian","product_price":5.49,"currency":"Dollar","product_description":"Crispy baked falafel balls, perfect for salads","product_subcategory":"Snacks"},
-{"product_name":"Kids' Dinosaur-Themed Lunchbox","product_category":"Accessories","product_price":19.99,"currency":"Peso","product_description":"Fun lunchbox for kids with a sturdy design.","product_subcategory":"Kids' Bags"},
-{"product_name":"Spiralizer","product_category":"Kitchen","product_price":22.99,"currency":"Real","product_description":"Vegetable spiralizer for healthy meals.","product_subcategory":"Kitchen Gadgets"},
-{"product_name":"Whole Wheat Pasta","product_category":"Food - Grains","product_price":2.49,"currency":"Euro","product_description":"Nutritious and hearty pasta made from whole wheat flour.","product_subcategory":"Pasta"},
-{"product_name":"Vegetable Medley","product_category":"Food - Produce","product_price":2.99,"currency":"Yuan Renminbi","product_description":"Mixed fresh vegetables for stir-frying or roasting.","product_subcategory":"Mixed Vegetables"},
-{"product_name":"Bamboo Toothbrush Holder","product_category":"Health","product_price":14.99,"currency":"Yuan Renminbi","product_description":"Eco-friendly bamboo holder for toothbrushes.","product_subcategory":"Oral Care & Hygiene"},
-{"product_name":"Adjustable Pet Feeder","product_category":"Pets","product_price":39.99,"currency":"Yuan Renminbi","product_description":"Convenient feeder that adjusts to your pet's height.","product_subcategory":"Pet Feeding Supplies"},
-{"product_name":"Brussels Sprouts","product_category":"Food - Produce","product_price":3.49,"currency":"Somoni","product_description":"Fresh Brussels sprouts, great for roasting or steaming.","product_subcategory":"Vegetables"},
-{"product_name":"Italian Herbal Seasoning","product_category":"Food - Spices","product_price":1.99,"currency":"Peso","product_description":"A fragrant blend of Italian herbs for pasta sauces and marinades.","product_subcategory":"Herbs and Spices"},
-{"product_name":"Portable Hammock","product_category":"Outdoor","product_price":27.99,"currency":"Hryvnia","product_description":"Lightweight hammock for easy setup anywhere.","product_subcategory":"Camping Equipment"},
-{"product_name":"Scent Diffuser Oil","product_category":"Home","product_price":14.99,"currency":"Yuan Renminbi","product_description":"Essential oil blends for a soothing atmosphere in your home.","product_subcategory":"Home Fragrance & Accessories"},
-{"product_name":"Self-Cleaning Cat Litter Box","product_category":"Pets","product_price":199.99,"currency":"Peso","product_description":"Automated litter box that cleans itself after each use.","product_subcategory":"Cat Care"},
-{"product_name":"Slim Wallet","product_category":"Accessories","product_price":24.99,"currency":"Yen","product_description":"RFID-blocking slim wallet for cards and cash.","product_subcategory":"Wallets"},
-{"product_name":"Breezy Off-The-Shoulder Top","product_category":"Clothing - Tops","product_price":34.99,"currency":"Zloty","product_description":"A light and breezy top ideal for warm days.","product_subcategory":"Women's Tops"},
-{"product_name":"Faux Fur Coat","product_category":"Clothing - Coats","product_price":129.99,"currency":"Rial","product_description":"A luxurious faux fur coat that adds glamour to any outfit.","product_subcategory":"Outerwear - Faux Fur"},
-{"product_name":"Sesame Garlic Noodles","product_category":"Food - Pasta","product_price":3.49,"currency":"Rupiah","product_description":"Delicious noodles tossed in a sesamegarlic sauce.","product_subcategory":"Asian Dishes"},
-{"product_name":"Mini Hand Gesture Drone","product_category":"Toys","product_price":29.99,"currency":"Yuan Renminbi","product_description":"Toy drone that flies with gestures and is easy to control.","product_subcategory":"Remote Control Drones"},
-{"product_name":"Silicone Stretch Lids","product_category":"Kitchen","product_price":14.99,"currency":"Rand","product_description":"Reusable silicone lids for covering food in bowls and storage containers.","product_subcategory":"Food Storage Solutions"},
-{"product_name":"Plant Pot Drip Trays","product_category":"Garden","product_price":9.99,"currency":"Real","product_description":"Prevent water damage with drip trays for potted plants.","product_subcategory":"Gardening Accessories"},
-{"product_name":"Suede Ankle Booties","product_category":"Clothing - Footwear","product_price":79.99,"currency":"Euro","product_description":"Chic suede ankle booties, perfect for dressing up or down.","product_subcategory":"Boots"},
-{"product_name":"Compact Pop-Up Tent","product_category":"Outdoor","product_price":69.99,"currency":"Real","product_description":"Easy setup tent perfect for camping and outdoor festivals.","product_subcategory":"Camping Equipment"},
-{"product_name":"Digital Thermostat","product_category":"Home","product_price":59.99,"currency":"Lempira","product_description":"Programmable digital thermostat for home heating.","product_subcategory":"Smart Home & Security"},
-{"product_name":"Spinach Pizza Rolls","product_category":"Food - Frozen Foods","product_price":4.99,"currency":"Ruble","product_description":"Frozen pizza rolls stuffed with spinach and cheese, perfect for snacking.","product_subcategory":"Frozen Snacks"},
-{"product_name":"Travel Luggage Scale","product_category":"Travel","product_price":14.99,"currency":"Rupiah","product_description":"Digital scale to avoid overweight baggage fees.","product_subcategory":"Travel Accessories"},
-{"product_name":"Crispy Kale Chips","product_category":"Food - Snacks","product_price":2.99,"currency":"Peso","product_description":"Baked kale chips seasoned for a healthy, crunchy snack.","product_subcategory":"Healthy Snacks"},
-{"product_name":"Electric Rice Cooker with Steamer","product_category":"Kitchen","product_price":49.99,"currency":"Baht","product_description":"Cook rice and steam vegetables simultaneously for healthy meals.","product_subcategory":"Small Appliances"},
-{"product_name":"Smartphone Tripod with Bluetooth Remote","product_category":"Photography","product_price":29.99,"currency":"Baht","product_description":"Tripod with wireless remote for effortless photo-taking.","product_subcategory":"Smartphone Accessories"},
-{"product_name":"Creamy Garlic Dressing","product_category":"Food - Condiments","product_price":3.99,"currency":"Euro","product_description":"Rich and creamy dressing with garlic flavor, perfect for salads.","product_subcategory":"Dressing"},
-{"product_name":"Garlic Parmesan Wings","product_category":"Food - Frozen Foods","product_price":8.99,"currency":"Peso","product_description":"Frozen chicken wings with garlic parmesan sauce.","product_subcategory":"Frozen Chicken Wings"},
-{"product_name":"Wireless Earbud Silicone Covers","product_category":"Accessories","product_price":9.99,"currency":"Pound","product_description":"Soft silicone earbud covers for comfort and fit.","product_subcategory":"Tech Accessories"},
-{"product_name":"Warm Wool Sweater","product_category":"Clothing - Tops","product_price":59.99,"currency":"Euro","product_description":"Cozy wool sweater to keep you warm on chilly days.","product_subcategory":"Sweaters"},
-{"product_name":"Waffle Maker","product_category":"Kitchen","product_price":39.99,"currency":"Euro","product_description":"Make delicious waffles with this user-friendly device.","product_subcategory":"Small Appliances"},
-{"product_name":"DIY Lip Balm Kit","product_category":"Crafts","product_price":22.99,"currency":"Franc","product_description":"Craft your own lip balms with this complete kit.","product_subcategory":"DIY Crafts"},
-{"product_name":"Whole Wheat Bread","product_category":"Food - Bakery","product_price":2.49,"currency":"Ruble","product_description":"Freshly baked whole wheat bread, rich in fiber.","product_subcategory":"Breads"},
-{"product_name":"Caramel Apple Taffy","product_category":"Food - Confectionery","product_price":1.99,"currency":"Ruble","product_description":"Sweet and chewy taffy flavored like caramel apples, great for fall.","product_subcategory":"Chewy Candies"},
-{"product_name":"Folding Exercise Bike","product_category":"Fitness","product_price":199.99,"currency":"Rupiah","product_description":"Space-saving bike for indoor workouts.","product_subcategory":"Bikes & Cycling Equipment"},
-{"product_name":"Sushi Roll Kit","product_category":"Food - Cooking Kits","product_price":9.99,"currency":"Rupiah","product_description":"All ingredients needed to make your own sushi","product_subcategory":"Japanese Cooking Kits"},
-{"product_name":"Mini Meatballs","product_category":"Food - Frozen Meals","product_price":5.99,"currency":"Rial","product_description":"Frozen mini meatballs that are great as a snack or in pasta dishes.","product_subcategory":"Frozen Appetizers"},
-{"product_name":"Chocolate Chip Pancake Mix","product_category":"Food - Bakery","product_price":3.99,"currency":"Ruble","product_description":"Easy-to-make pancake mix with chocolate chips included.","product_subcategory":"Baking Mixes"},
-{"product_name":"Gardening Gloves with Claws","product_category":"Garden","product_price":24.99,"currency":"Yuan Renminbi","product_description":"Durable gloves with built-in claws for digging and planting.","product_subcategory":"Garden Tools"},
-{"product_name":"Chickpea Flour","product_category":"Food - Baking","product_price":3.29,"currency":"Yuan Renminbi","product_description":"Gluten-free flour made from ground chickpeas, great for cooking.","product_subcategory":"Flours & Meals"},
-{"product_name":"Paint By Numbers Kit","product_category":"Art Supplies","product_price":24.99,"currency":"Yuan Renminbi","product_description":"Relaxing paint kit with pre-printed canvas for painting.","product_subcategory":"Painting Kits"},
-{"product_name":"Spicy Chicken Wings","product_category":"Food - Meat","product_price":9.99,"currency":"Euro","product_description":"Wide range of flavored wings, perfect for parties or casual snacking.","product_subcategory":"Poultry"},
-{"product_name":"Quality Chef Apron","product_category":"Kitchen","product_price":19.99,"currency":"Balboa","product_description":"Durable apron to keep clothes clean while cooking.","product_subcategory":"Cooking Tools & Utensils"},
-{"product_name":"Smart Air Purifier","product_category":"Home","product_price":199.99,"currency":"Zloty","product_description":"Filters allergens and pollutants from the air for a healthier home.","product_subcategory":"Air Quality & Purification"},
-{"product_name":"Basketball","product_category":"Sports","product_price":29.99,"currency":"Baht","product_description":"Official size basketball for indoor and outdoor play.","product_subcategory":"Team Sports"},
-{"product_name":"Folding Backpack Chair","product_category":"Outdoor","product_price":49.99,"currency":"Peso","product_description":"Versatile chair that easily folds up for carrying.","product_subcategory":"Camping Equipment"},
-{"product_name":"Compact Folding Table","product_category":"Outdoor","product_price":49.99,"currency":"Denar","product_description":"Versatile folding table great for events or outdoor activities.","product_subcategory":"Camping Equipment"},
-{"product_name":"Pistachio Ice Cream","product_category":"Food - Frozen Desserts","product_price":4.99,"currency":"Euro","product_description":"Creamy pistachio-flavored ice cream with real nuts.","product_subcategory":"Gourmet Ice Cream"},
-{"product_name":"Silicone Ice Cube Tray","product_category":"Kitchen","product_price":10.99,"currency":"Peso","product_description":"Flexible tray for easy-release ice cubes.","product_subcategory":"Ice Cube Trays"},
-{"product_name":"Sous Vide Cooker","product_category":"Kitchen","product_price":79.99,"currency":"Rupiah","product_description":"Precision cooker for perfect sous vide cooking.","product_subcategory":"Cooking Appliances"},
-{"product_name":"Pepper Jack Cheese Sticks","product_category":"Food - Snacks","product_price":2.49,"currency":"Koruna","product_description":"A spicy, flavorful cheese stick great for snacks or lunchboxes.","product_subcategory":"Savory Snacks"},
-{"product_name":"Smartphone Tripod","product_category":"Photography","product_price":29.99,"currency":"Ruble","product_description":"Adjustable tripod for smartphones and cameras.","product_subcategory":"Tripods & Accessories"},
-{"product_name":"Vegetable Stir-Fry Sauce","product_category":"Food - Sauces","product_price":3.49,"currency":"Pound","product_description":"Savory sauce for vegetable and meat stir-fries.","product_subcategory":"Asian Sauces"},
-{"product_name":"Smoky BBQ Jackfruit","product_category":"Food - Grocery","product_price":4.99,"currency":"Real","product_description":"Pulled jackfruit in a smoky BBQ sauce for a tasty vegan dish.","product_subcategory":"Meat Alternatives"},
-{"product_name":"Almond Butter","product_category":"Food - Condiments","product_price":6.49,"currency":"Tugrik","product_description":"Creamy almond butter made from roasted almonds.","product_subcategory":"Nut Butters"},
-{"product_name":"Salt and Pepper Grinder Set","product_category":"Kitchen","product_price":19.99,"currency":"Euro","product_description":"Adjustable grinders for fresh spices at the table.","product_subcategory":"Cooking Tools & Utensils"},
-{"product_name":"Adjustable Pet Feeder","product_category":"Pets","product_price":39.99,"currency":"Zloty","product_description":"Convenient feeder that adjusts to your pet's height.","product_subcategory":"Pet Feeding Supplies"},
-{"product_name":"Wooden Kitchen Utensil Set","product_category":"Kitchen","product_price":19.99,"currency":"Ruble","product_description":"Eco-friendly utensil set made from natural wood.","product_subcategory":"Kitchen Gadgets"},
-{"product_name":"Pesto Pasta Salad","product_category":"Food - Prepared Foods","product_price":4.99,"currency":"Zloty","product_description":"Cold pasta salad tossed with pesto and fresh vegetables.","product_subcategory":"Salads"},
-{"product_name":"Frozen Spinach","product_category":"Food - Frozen Foods","product_price":1.99,"currency":"Bolivar","product_description":"Chopped and frozen spinach, ideal for cooking and smoothies.","product_subcategory":"Frozen Vegetables"},
-{"product_name":"Honey Almond Granola Bars","product_category":"Food - Snacks","product_price":3.99,"currency":"Yuan Renminbi","product_description":"Chewy granola bars made with honey and almonds.","product_subcategory":"Healthy Snacks"},
-{"product_name":"Tennis Racket","product_category":"Fitness","product_price":89.99,"currency":"Krona","product_description":"Lightweight tennis racket for beginners and advanced players.","product_subcategory":"Racquet Sports Equipment"},
-{"product_name":"Luxury Rolling Makeup Case","product_category":"Beauty","product_price":99.99,"currency":"Yuan Renminbi","product_description":"Stylish and spacious case for makeup and beauty products.","product_subcategory":"Makeup"}]
+[
+  {
+    "id": 1,
+    "product_name": "Air Fryer",
+    "product_category": "Kitchen",
+    "product_price": 4999,
+    "product_description": "Crispy food with 80% less oil. 4L capacity, perfect for families.",
+    "image_url": "https://images.unsplash.com/photo-1639667870348-7b0d6c0e4e6f?w=400"
+  },
+  {
+    "id": 2,
+    "product_name": "Electric Kettle",
+    "product_category": "Kitchen",
+    "product_price": 1299,
+    "product_description": "1.7L stainless steel kettle. Boils water in under 3 minutes.",
+    "image_url": "https://images.unsplash.com/photo-1522338242992-e1a54906a8da?w=400"
+  },
+  {
+    "id": 3,
+    "product_name": "Blender",
+    "product_category": "Kitchen",
+    "product_price": 2499,
+    "product_description": "High-speed blender with multiple speed settings and a 1.5L jar.",
+    "image_url": "https://images.unsplash.com/photo-1586201375761-83865001e0b4?w=400"
+  },
+  {
+    "id": 4,
+    "product_name": "Spatula",
+    "product_category": "Kitchen",
+    "product_price": 299,
+    "product_description": "Heat-resistant silicone spatula. Perfect for flipping and stirring.",
+    "image_url": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=400"
+  },
+  {
+    "id": 5,
+    "product_name": "Chef's Knife",
+    "product_category": "Kitchen",
+    "product_price": 1899,
+    "product_description": "8-inch stainless steel chef's knife with ergonomic handle. Razor sharp.",
+    "image_url": "https://images.unsplash.com/photo-1593618998160-e34014e67546?w=400"
+  },
+  {
+    "id": 6,
+    "product_name": "Kitchen Organizer",
+    "product_category": "Kitchen",
+    "product_price": 799,
+    "product_description": "Multi-purpose kitchen rack to keep your countertop clutter-free.",
+    "image_url": "https://images.unsplash.com/photo-1556909172-54557c7e4fb7?w=400"
+  },
+  {
+    "id": 7,
+    "product_name": "Cutting Board",
+    "product_category": "Kitchen",
+    "product_price": 599,
+    "product_description": "Large bamboo cutting board with juice grooves. Eco-friendly and durable.",
+    "image_url": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400"
+  },
+  {
+    "id": 8,
+    "product_name": "Mixing Bowl Set",
+    "product_category": "Kitchen",
+    "product_price": 899,
+    "product_description": "Set of 3 stainless steel mixing bowls in different sizes.",
+    "image_url": "https://images.unsplash.com/photo-1574781330855-d0db8cc6a79c?w=400"
+  },
+  {
+    "id": 9,
+    "product_name": "Cup Set",
+    "product_category": "Kitchen",
+    "product_price": 699,
+    "product_description": "Set of 6 ceramic cups in pastel colors. Microwave and dishwasher safe.",
+    "image_url": "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=400"
+  },
+  {
+    "id": 10,
+    "product_name": "Toaster",
+    "product_category": "Kitchen",
+    "product_price": 1599,
+    "product_description": "2-slice toaster with 6 browning settings and a removable crumb tray.",
+    "image_url": "https://images.unsplash.com/photo-1603199506016-b9a594b593c0?w=400"
+  },
+  {
+    "id": 11,
+    "product_name": "Wireless Earbuds",
+    "product_category": "Electronics",
+    "product_price": 2999,
+    "product_description": "True wireless earbuds with 24hr battery life and noise cancellation.",
+    "image_url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400"
+  },
+  {
+    "id": 12,
+    "product_name": "Smart Watch",
+    "product_category": "Electronics",
+    "product_price": 8999,
+    "product_description": "Track fitness, calls, and notifications on your wrist.",
+    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400"
+  },
+  {
+    "id": 13,
+    "product_name": "Portable Power Bank",
+    "product_category": "Electronics",
+    "product_price": 1499,
+    "product_description": "20000mAh power bank with fast charging. Charges 3 devices at once.",
+    "image_url": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=400"
+  },
+  {
+    "id": 14,
+    "product_name": "MacBook Air",
+    "product_category": "Electronics",
+    "product_price": 99999,
+    "product_description": "Apple MacBook Air M2 chip. Thin, light, and incredibly powerful.",
+    "image_url": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400"
+  },
+  {
+    "id": 15,
+    "product_name": "iPad",
+    "product_category": "Electronics",
+    "product_price": 49999,
+    "product_description": "10th gen iPad with stunning Liquid Retina display and all-day battery.",
+    "image_url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400"
+  },
+  {
+    "id": 16,
+    "product_name": "Blow Dryer",
+    "product_category": "Electronics",
+    "product_price": 1299,
+    "product_description": "2200W professional blow dryer with ionic technology for frizz-free hair.",
+    "image_url": "https://images.unsplash.com/photo-1522338140262-f46f5913618a?w=400"
+  },
+  {
+    "id": 17,
+    "product_name": "Hair Straightener",
+    "product_category": "Electronics",
+    "product_price": 1799,
+    "product_description": "Ceramic hair straightener with adjustable temperature and fast heat-up.",
+    "image_url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=400"
+  },
+  {
+    "id": 18,
+    "product_name": "Table Lamp",
+    "product_category": "Electronics",
+    "product_price": 999,
+    "product_description": "LED table lamp with touch dimmer and USB charging port built in.",
+    "image_url": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=400"
+  },
+  {
+    "id": 19,
+    "product_name": "Bluetooth Speaker",
+    "product_category": "Electronics",
+    "product_price": 2499,
+    "product_description": "Waterproof portable speaker with 360 sound and 12hr battery life.",
+    "image_url": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400"
+  },
+  {
+    "id": 20,
+    "product_name": "Torch",
+    "product_category": "Electronics",
+    "product_price": 499,
+    "product_description": "Rechargeable LED torch with 3 brightness modes and zoom function.",
+    "image_url": "https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=400"
+  },
+  {
+    "id": 21,
+    "product_name": "Matte Lipstick Set",
+    "product_category": "Beauty",
+    "product_price": 799,
+    "product_description": "Set of 6 long-lasting matte lipsticks in everyday shades.",
+    "image_url": "https://images.unsplash.com/photo-1586495777744-4e6232bf2fb4?w=400"
+  },
+  {
+    "id": 22,
+    "product_name": "Face Serum",
+    "product_category": "Beauty",
+    "product_price": 1499,
+    "product_description": "Vitamin C serum for glowing skin. Reduces dark spots in 4 weeks.",
+    "image_url": "https://images.unsplash.com/photo-1570194065650-d99fb4b38b5f?w=400"
+  },
+  {
+    "id": 23,
+    "product_name": "Sunscreen Lotion",
+    "product_category": "Beauty",
+    "product_price": 599,
+    "product_description": "SPF 50+ lightweight sunscreen. Non-greasy formula for daily use.",
+    "image_url": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400"
+  },
+  {
+    "id": 24,
+    "product_name": "Face Cream",
+    "product_category": "Beauty",
+    "product_price": 899,
+    "product_description": "Deep moisturizing face cream with hyaluronic acid. For all skin types.",
+    "image_url": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=400"
+  },
+  {
+    "id": 25,
+    "product_name": "Eye Cream",
+    "product_category": "Beauty",
+    "product_price": 1199,
+    "product_description": "Under-eye cream that reduces puffiness and dark circles overnight.",
+    "image_url": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=400"
+  },
+  {
+    "id": 26,
+    "product_name": "Lip Balm",
+    "product_category": "Beauty",
+    "product_price": 199,
+    "product_description": "Tinted lip balm with SPF 15. Keeps lips soft and hydrated all day.",
+    "image_url": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?w=400"
+  },
+  {
+    "id": 27,
+    "product_name": "Mascara",
+    "product_category": "Beauty",
+    "product_price": 699,
+    "product_description": "Volumizing and lengthening mascara. Smudge-proof for 24 hours.",
+    "image_url": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=400"
+  },
+  {
+    "id": 28,
+    "product_name": "Foundation",
+    "product_category": "Beauty",
+    "product_price": 1299,
+    "product_description": "Full coverage liquid foundation with SPF 30. Available in 20 shades.",
+    "image_url": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=400"
+  },
+  {
+    "id": 29,
+    "product_name": "Concealer",
+    "product_category": "Beauty",
+    "product_price": 799,
+    "product_description": "Full coverage concealer that covers dark circles and blemishes instantly.",
+    "image_url": "https://images.unsplash.com/photo-1631214503851-25e92d863a4c?w=400"
+  },
+  {
+    "id": 30,
+    "product_name": "Highlighter",
+    "product_category": "Beauty",
+    "product_price": 899,
+    "product_description": "Buildable shimmer highlighter for a natural glow on cheeks and brow bones.",
+    "image_url": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=400"
+  },
+  {
+    "id": 31,
+    "product_name": "Oversized Hoodie",
+    "product_category": "Clothing",
+    "product_price": 1299,
+    "product_description": "Super soft fleece hoodie, perfect for lounging or going out.",
+    "image_url": "https://images.unsplash.com/photo-1556821840-3a63f15732ce?w=400"
+  },
+  {
+    "id": 32,
+    "product_name": "Slim Fit Jeans",
+    "product_category": "Clothing",
+    "product_price": 1799,
+    "product_description": "Stretchable slim fit jeans available in multiple washes.",
+    "image_url": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=400"
+  },
+  {
+    "id": 33,
+    "product_name": "Crew Neck T-Shirt",
+    "product_category": "Clothing",
+    "product_price": 599,
+    "product_description": "100% cotton crew neck tee. Breathable and comfortable for everyday wear.",
+    "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400"
+  },
+  {
+    "id": 34,
+    "product_name": "Jersey",
+    "product_category": "Clothing",
+    "product_price": 999,
+    "product_description": "Moisture-wicking sports jersey. Lightweight and quick-dry fabric.",
+    "image_url": "https://images.unsplash.com/photo-1580087256394-dc596e1c8f4f?w=400"
+  },
+  {
+    "id": 35,
+    "product_name": "Dinosaur Night Suit",
+    "product_category": "Clothing",
+    "product_price": 799,
+    "product_description": "Adorable dinosaur print night suit for kids. Super soft and cozy.",
+    "image_url": "https://images.unsplash.com/photo-1519278409-1f56fdda7fe5?w=400"
+  },
+  {
+    "id": 36,
+    "product_name": "Hello Kitty Pajamas",
+    "product_category": "Clothing",
+    "product_price": 899,
+    "product_description": "Cute Hello Kitty printed pajama set. Perfect for lazy days at home.",
+    "image_url": "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?w=400"
+  },
+  {
+    "id": 37,
+    "product_name": "Princess Dress",
+    "product_category": "Clothing",
+    "product_price": 1499,
+    "product_description": "Flowy satin princess dress for girls. Perfect for parties and occasions.",
+    "image_url": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400"
+  },
+  {
+    "id": 38,
+    "product_name": "Winter Coat",
+    "product_category": "Clothing",
+    "product_price": 3999,
+    "product_description": "Warm padded winter coat with hood. Windproof and water resistant.",
+    "image_url": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?w=400"
+  },
+  {
+    "id": 39,
+    "product_name": "Sports Jacket",
+    "product_category": "Clothing",
+    "product_price": 2499,
+    "product_description": "Lightweight zip-up sports jacket. Great for workouts and casual wear.",
+    "image_url": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=400"
+  },
+  {
+    "id": 40,
+    "product_name": "Socks Pack",
+    "product_category": "Clothing",
+    "product_price": 299,
+    "product_description": "Pack of 6 premium cotton socks. Anti-odor and breathable.",
+    "image_url": "https://images.unsplash.com/photo-1586350977771-b3b0abd50c82?w=400"
+  },
+  {
+    "id": 41,
+    "product_name": "Wooden Bookshelf",
+    "product_category": "Furniture",
+    "product_price": 6999,
+    "product_description": "5-tier solid wood bookshelf. Fits any room aesthetic.",
+    "image_url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400"
+  },
+  {
+    "id": 42,
+    "product_name": "Study Table",
+    "product_category": "Furniture",
+    "product_price": 8499,
+    "product_description": "Ergonomic study table with storage drawers. Ideal for home offices.",
+    "image_url": "https://images.unsplash.com/photo-1587825140708-f7e8b1c3d5a0?w=400"
+  },
+  {
+    "id": 43,
+    "product_name": "Wardrobe",
+    "product_category": "Furniture",
+    "product_price": 18999,
+    "product_description": "3-door sliding wardrobe with mirror. Spacious and modern design.",
+    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400"
+  },
+  {
+    "id": 44,
+    "product_name": "Door Mat",
+    "product_category": "Furniture",
+    "product_price": 399,
+    "product_description": "Anti-slip coir door mat. Traps dirt and moisture at the entrance.",
+    "image_url": "https://images.unsplash.com/photo-1600585152220-90363fe7e115?w=400"
+  },
+  {
+    "id": 45,
+    "product_name": "Wooden Door",
+    "product_category": "Furniture",
+    "product_price": 12999,
+    "product_description": "Solid teak wood door with polished finish. Classic and durable.",
+    "image_url": "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=400"
+  },
+  {
+    "id": 46,
+    "product_name": "Sofa",
+    "product_category": "Furniture",
+    "product_price": 24999,
+    "product_description": "3-seater fabric sofa in neutral tones. Comfortable and stylish.",
+    "image_url": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=400"
+  },
+  {
+    "id": 47,
+    "product_name": "Coffee Table",
+    "product_category": "Furniture",
+    "product_price": 5999,
+    "product_description": "Round marble-top coffee table with wooden legs. Minimalist design.",
+    "image_url": "https://images.unsplash.com/photo-1530018607912-eff2daa1bac4?w=400"
+  },
+  {
+    "id": 48,
+    "product_name": "AC Unit",
+    "product_category": "Electronics",
+    "product_price": 35999,
+    "product_description": "1.5 ton split AC with 5-star energy rating and auto-clean function.",
+    "image_url": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=400"
+  },
+  {
+    "id": 49,
+    "product_name": "Dining Table",
+    "product_category": "Furniture",
+    "product_price": 14999,
+    "product_description": "6-seater wooden dining table with cushioned chairs. Solid build.",
+    "image_url": "https://images.unsplash.com/photo-1617806118233-18e1de247200?w=400"
+  },
+  {
+    "id": 50,
+    "product_name": "Office Chair",
+    "product_category": "Furniture",
+    "product_price": 7999,
+    "product_description": "Ergonomic mesh office chair with lumbar support and adjustable height.",
+    "image_url": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=400"
+  }
+]
